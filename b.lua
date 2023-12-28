@@ -92,11 +92,11 @@ getgenv().Setting = {
             ["Delay"] = 2,
             ["Skills"] = {
                 ["Z"] = {
-                    ["Enable"] = false,
+                    ["Enable"] = true,
                     ["HoldTime"] = 0.12,
                 },
                 ["X"] = {
-                    ["Enable"] = false,
+                    ["Enable"] = true,
                     ["HoldTime"] = 0.3,
                 },
             },
