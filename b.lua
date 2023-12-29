@@ -88,7 +88,7 @@ getgenv().Setting = {
             },
         },
         ["Gun"] = {
-            ["Enable"] = true,
+            ["Enable"] = false,
             ["Delay"] = 2,
             ["Skills"] = {
                 ["Z"] = {
